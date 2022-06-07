@@ -229,7 +229,7 @@
 }
 
 .hero__description {
-    font-size: 60px;
+    font-size: 60px;    
     background: #da22ff;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #0b8793, #360033);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #0b8793, #360033); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
@@ -280,7 +280,7 @@
 }
 
 .main__content h1 {
-    font-size: 2rem;
+    font-size: 2.5rem;
     background-color: #feb36f;
     background-image: linear-gradient(to top, #ff087b 0%, #ed15a2 100%);
     background-size: 100%;
@@ -294,7 +294,7 @@
 }
 
 .main__content h2 {
-font-size: 4rem;
+font-size: 1.5rem;
 background: #43cea2;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #185a9d, #43cea2);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to right, #185a9d, #43cea2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
@@ -308,7 +308,7 @@ background-clip: text;
 
 
 .main_content p {
-    margin-top: 1rem;
+    margin-top: 0.75rem;
     font-size: 2rem;
     font-weight: 700;
 }
@@ -510,10 +510,9 @@ background-clip: text;
 }
 
 .services__card:nth-child(4) {
-    background: #fffc00;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #ffffff, #fffc00);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #ffffff, #fffc00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
-    color: #000;
+    background: #CC95C0;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #7AA1D2, #DBD4B4, #CC95C0);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #7AA1D2, #DBD4B4, #CC95C0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
 }
 
 .services__card h2 {
